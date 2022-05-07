@@ -5,7 +5,7 @@ This game is built on Unity with C#. The game assets can be obtained through uni
 
 <img src="Demo/DunchTale1.png" width="500"> <img src="Demo/DunchTale2.png" width="500">
 
-You can download the demo [APK](https://github.com/syahmiosmn/DunchTale/Demo/DunchTale.apk) and sideload it using  [SideQuest](https://sidequestvr.com/)! 
+You can download the demo [APK](https://github.com/syahmiosmn/DunchTale/blob/main/Demo/DunchTale.apk) and sideload it using  [SideQuest](https://sidequestvr.com/)! 
 
 ## Contact
 
